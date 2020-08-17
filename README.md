@@ -22,9 +22,3 @@ The attributes of the data set are:
 12.	Current Ver: Current version of the app available on Play Store (as when scraped)
 13.	Android Ver: Min required Android version (as when scraped)
 _______________________________________
-### Team Members: 
-1) Hina Gupta (17UCC026)
-2) Vipul Vaibhav (17UCS181)
-3) Rishabh Chaturvedi (17UCS127)
-
-Till now we have learnt about various libraries in Python including Pandas, Numpy, Matplotlib and also about Data Visualisation and about statistical thinking. We have also learnt about classifications and regression techniques. Putting our knowledge we have learnt and are currently learning, we would implement this project and hope that this would be of use in real would as well!
